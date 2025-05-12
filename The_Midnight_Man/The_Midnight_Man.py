@@ -53,8 +53,7 @@ while True:
     print("Invalid answer, please try again")
 
 
-print()
-input("You are a cunning one. You have chosen to awaken the Midnight Man.")
+input("\nYou are a cunning one. You have chosen to awaken the Midnight Man.")
 input("You must now remain awake until 3:33 am. Should you break the rules, you will meet your end.\nYour fate is in your hands.")
 input("And his.\n\n")
     
